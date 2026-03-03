@@ -4,7 +4,7 @@
 
 
 
-\*Estudiante:\* Derix Trejos Moreno 
+\*Estudiante:\* Derix Trejos Moreno
 
 \*Carnet:\* 604980373
 
