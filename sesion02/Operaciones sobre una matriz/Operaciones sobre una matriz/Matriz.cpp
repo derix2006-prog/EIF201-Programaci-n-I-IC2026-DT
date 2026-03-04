@@ -37,3 +37,10 @@ void SumaColumnas(int Matriz[Filas][Columnas]) {
 		cout << "suma de columna " << j + 1 << ": " << sumaC << endl;
 	}
 }
+void SumaDiagonal(int Matriz[Filas][Columnas]) {
+	int sumaD = 0; 
+	for (int i = 0; i < Filas; i++) {
+	    sumaD += Matriz[i][i]; 
+	}
+	cout << " La suma diagonal es: " << sumaD; 
+}

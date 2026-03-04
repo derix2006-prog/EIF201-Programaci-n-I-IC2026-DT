@@ -13,6 +13,7 @@ int main()
 	MostrarMatriz(Matriz);
 	SumaFilas(Matriz); 
 	SumaColumnas(Matriz);
+	SumaDiagonal(Matriz);
 
 }
 

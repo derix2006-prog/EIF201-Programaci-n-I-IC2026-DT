@@ -10,4 +10,5 @@ void LeerMatriz(int Matriz[Filas][Columnas]);
 void MostrarMatriz(int Matriz[Filas][Columnas]);
 void SumaFilas(int Matriz[Filas][Columnas]);
 void SumaColumnas(int Matriz[Filas][Columnas]);
+void SumaDiagonal(int Matriz[Filas][Columnas]);
 #endif
